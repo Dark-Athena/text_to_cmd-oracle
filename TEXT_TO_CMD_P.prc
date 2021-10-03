@@ -3,7 +3,7 @@ CREATE OR REPLACE PROCEDURE TEXT_TO_CMD_P(I_db_Path       IN VARCHAR2,
                                        I_file_name     IN VARCHAR2,
                                        I_run           in varchar2)
  /*
-Copyright DarkAthena
+Copyright DarkAthena(darkathena@qq.com)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
